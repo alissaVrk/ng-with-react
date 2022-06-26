@@ -6,7 +6,7 @@
   "repository": "https://github.com/angular/angular-seed",
   "license": "MIT",
   "dependencies": {
-    "alissa-todo-react-query": "^0.2.1",
+    "alissa-todo-react-query": "^0.21.1",
     "angular": "^1.7.5",
     "angular-loader": "^1.7.5",
     "angular-route": "^1.7.5",
